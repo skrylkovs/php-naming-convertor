@@ -1,0 +1,25 @@
+{
+  "name": "skrylkovs/php-naming-converter",
+  "description": "Skrylkovs convert value between different naming practice like camel case, snake case, etc.",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "homepage": "https://gitlab.com/skrylkovs/php-naming-convertor",
+  "authors": [
+    {
+      "name": "Sergei Skrylkov",
+      "email": "skrylkovs@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Skrylkovs\\Library\\": ""
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "prefer-stable": true
+}
