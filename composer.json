@@ -1,5 +1,5 @@
 {
-  "name": "skrylkovs/php_naming_converter",
+  "name": "skrylkovs/php_naming_convertor",
   "description": "Skrylkovs convert value between different naming practice like camel case, snake case, etc.",
   "license": "proprietary",
   "minimum-stability": "dev",
